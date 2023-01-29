@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#canvas {
+    background-color: black;
+    position: absolute;
+}
+
+img {
+    display: none;
+}
